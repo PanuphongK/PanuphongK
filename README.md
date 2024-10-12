@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
+I graduated from the University of Phayao with a degree in Computer Engineering and am currently seeking a position as a Backend Developer.
+
 * 🌍  I'm based in Chiang Rai, Thailand
 
 ### Skills
